@@ -2,7 +2,7 @@
 
 A collection of original works for solo piano by **Thomas Pitz**.
 
-The scores in this repository are publication-ready PDF editions from the 2026 piano collection. They are made available so that pianists can explore the music directly from the score.
+This repository contains the publication-ready PDF editions from the 2026 piano collection. The scores are made available so that pianists can explore, study, and perform the music directly from the score.
 
 ## Scores
 
@@ -39,10 +39,10 @@ The *Intermezzo* is currently being shared as the first featured work from the c
 
 ## Use of the scores
 
-The scores may be downloaded free of charge for personal study.
+The scores may be downloaded free of charge.
 
-Pianists interested in performing or recording these works are very welcome to do so and to get in touch.
+Pianists are welcome to study, perform, and record the works. Please credit **Thomas Pitz** as the composer.
 
-Copyright remains with the composer. Please do not redistribute, alter, republish, or use the scores commercially without permission.
+Copyright remains with the composer. Please do not redistribute or republish the score files themselves, create altered editions, or use the scores commercially without permission.
 
 © 2026 Thomas Pitz. All rights reserved.
